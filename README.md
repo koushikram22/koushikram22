@@ -1,13 +1,13 @@
 <h2 align="left">Hi there 👋, I'm Koushik Ram Addagarla</h2>
 
-### 👨‍💻 About Me
+### <h2>👨‍💻 About Me</h2>
 <p align="left">
 I'm a Software Developer specializing in Java, Python, and JavaScript, building scalable web applications and backend systems that solve real-world problems through clean and efficient architecture. Focused on performance, usability, and continuous improvement, contributing to reliable and maintainable software solutions that deliver measurable value across diverse projects and environments.
 </p>
 
 <hr style="height:1px;border:none;background-color:#444;">
 
-### 🛠️ Tech Stack
+### <h2>🛠️ Tech Stack</h2>
 
 #### 💻 Languages & Web Technologies
 <p align="left">
@@ -38,7 +38,7 @@ I'm a Software Developer specializing in Java, Python, and JavaScript, building 
 
 <hr style="height:1px;border:none;background-color:#444;">
 
-### 🔗 Connect With Me
+### <h2>🔗 Connect With Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/koushik-ram-addagarla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
