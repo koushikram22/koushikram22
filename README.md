@@ -5,8 +5,6 @@
 I'm a Software Developer specializing in Java, Python, and JavaScript, building scalable web applications and backend systems that solve real-world problems through clean and efficient architecture. Focused on performance, usability, and continuous improvement, contributing to reliable and maintainable software solutions that deliver measurable value across diverse projects and environments.
 </p>
 
----
-
 ### <h2>🛠️ Tech Stack</h2>
 
 #### 💻 Languages & Web Technologies
