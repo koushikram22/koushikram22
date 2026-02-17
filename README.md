@@ -31,11 +31,8 @@ I'm a Software Developer specializing in Java, Python, and JavaScript, building 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
   <img width="12"/>
-  <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-  height="30"
-  style="background-color:#ffffff; border-radius:6px; padding:3px;"
-/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
 </p>
 
