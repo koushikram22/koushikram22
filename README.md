@@ -7,7 +7,7 @@ I'm a Software Developer specializing in Java, Python, and JavaScript, building 
 
 ---
 
-### 🛠️ Tech Stack
+### <h2>🛠️ Tech Stack</h2>
 
 #### 💻 Languages & Web Technologies
 <p align="left">
@@ -38,7 +38,7 @@ I'm a Software Developer specializing in Java, Python, and JavaScript, building 
 
 ---
 
-### 🔗 Connect With Me
+### <h2>🔗 Connect With Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/koushik-ram-addagarla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
