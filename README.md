@@ -1,7 +1,5 @@
 <h2 align="left">Hi there 👋, I'm Koushik Ram Addagarla</h2>
 
-<hr style="height:1px;border:none;background-color:#444;">
-
 ### 👨‍💻 About Me
 <p align="left">
 I'm a Software Developer specializing in Java, Python, and JavaScript, building scalable web applications and backend systems that solve real-world problems through clean and efficient architecture. Focused on performance, usability, and continuous improvement, contributing to reliable and maintainable software solutions that deliver measurable value across diverse projects and environments.
