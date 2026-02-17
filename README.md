@@ -32,18 +32,11 @@ I'm a Software Developer specializing in Java, Python, and JavaScript, building 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
   <img width="12"/>
 
-  <!-- Light Mode GitHub Icon -->
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" 
-    height="30"
-  />
-
-  <!-- Dark Mode GitHub Icon -->
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" 
-    height="30"
-    style="filter: invert(1);"
-  />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+  height="30"
+  style="filter: invert(100%);"
+/>
 
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
