@@ -31,18 +31,6 @@ I'm a Software Developer specializing in Java, Python, and JavaScript, building 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-### 🗄️ Database
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### ⚙️ Tools
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
 ---
 
 ### 🔗 Connect With Me
