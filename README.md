@@ -31,11 +31,20 @@ I'm a Software Developer specializing in Java, Python, and JavaScript, building 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
   <img width="12"/>
-  <img 
+  <!-- Light mode (black icon) -->
+<img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
   height="30" 
-  class="brightness-0 dark:invert"
+  class="block dark:hidden"
 />
+
+<!-- Dark mode (white icon) -->
+<img 
+  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" 
+  height="30" 
+  class="hidden dark:block invert"
+/>
+
 <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
 </p>
