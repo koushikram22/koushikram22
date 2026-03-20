@@ -7,7 +7,7 @@ I'm a Software Developer specializing in Java, Python, and JavaScript, building 
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ### 💻 Languages & Web Technologies
 
